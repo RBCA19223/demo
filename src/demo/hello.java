@@ -9,7 +9,7 @@ public class hello {
         a=10;
         b=20;
         c=a+b;
-        System.out.println(+c);
+        System.out.println("output is: "+c);
 	}
 
 }
